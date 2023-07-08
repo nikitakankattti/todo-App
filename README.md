@@ -1,3 +1,3 @@
 # category
 
-A Flutter applicatiton for snoodify
+A Flutter applicatiton 
